@@ -1,6 +1,6 @@
 {
-  "name": "HelloWorldMB",
-  "description": "Hello World",
+  "name": "UiPath_Projects",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "f9fe0902-5896-4f34-ac19-c022c35e2eae",
+      "uniqueId": "7b18c3f2-44d8-47a6-bf8f-ef443aa3dea1",
       "input": [],
       "output": []
     }
